@@ -18,7 +18,7 @@ contract TodoListTest is Test {
         // get the current number of todos
         uint256 numberOfTodosBefore = todoList.getNumberOfTodos();
         // create a new todo and save the number of todos
-        uint256 numberOfTodosAfter = todoList.createTodo(address(this), "A new todo for you!");
+        uint256 numberOfTodosAfter = todoList.createTodo("A new todo for you!");
 
         // Step 3: Confirm that the number of todos increases by one
         /* ... */
