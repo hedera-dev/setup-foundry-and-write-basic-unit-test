@@ -36,5 +36,5 @@ Have the following set up on your computer:
 
 ## Get started
 
-The repo, github.com/hedera-dev/setup-foundry-and-write-basic-unit-test, is intended to be used alongside this [tutorial](docs.hedera.com).
+The repo, github.com/hedera-dev/setup-foundry-and-write-basic-unit-test, is intended to be used alongside this [tutorial]([docs.hedera.com](https://docs.hedera.com/hedera/tutorials/smart-contracts/foundry/setup-foundry-and-write-basic-unit-test)https://docs.hedera.com/hedera/tutorials/smart-contracts/foundry/setup-foundry-and-write-basic-unit-test).
 
